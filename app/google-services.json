@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424137262899",
+    "project_id": "loginandregister-12381",
+    "storage_bucket": "loginandregister-12381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424137262899:android:cb370c093eda4369096046",
+        "android_client_info": {
+          "package_name": "org.freedu.loingregisterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6GQQ-lQIyTbJjJtdvICIOCR8qdAA0ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
